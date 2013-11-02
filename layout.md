@@ -8,4 +8,5 @@ Acknowledgements.tex
 Author contributions.tex
 Competing financial interests.tex
 Figures.tex
+Figure Legends.tex
 Usage Notes (optional).tex
