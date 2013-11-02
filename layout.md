@@ -10,4 +10,5 @@ Competing financial interests.tex
 Figures.tex
 Figure Legends.tex
 Tables.tex
+Supplementary Information.tex
 Usage Notes (optional).tex
