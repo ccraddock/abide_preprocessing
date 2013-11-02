@@ -7,4 +7,5 @@ Usage Notes.tex
 Acknowledgements.tex
 Author contributions.tex
 Competing financial interests.tex
+Figures.tex
 Usage Notes (optional).tex
