@@ -9,4 +9,5 @@ Author contributions.tex
 Competing financial interests.tex
 Figures.tex
 Figure Legends.tex
+Tables.tex
 Usage Notes (optional).tex
