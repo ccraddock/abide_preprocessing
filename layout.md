@@ -1,5 +1,5 @@
 abstract.tex
-introduction.tex
+Background & Summary.tex
 results.tex
 results_table.tex
 figures/figure_1/figure_1.jpg
