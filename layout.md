@@ -6,4 +6,5 @@ Technical Validation.tex
 Usage Notes1.tex
 Acknowledgements.tex
 Author contributions.tex
+Competing financial interests.tex
 Usage Notes (optional).tex
