@@ -1,5 +1,6 @@
 abstract.tex
 Background & Summary.tex
+figures/derivatives-01/derivatives-01.png
 Methods.tex
 Data Records.tex
 Technical Validation.tex
