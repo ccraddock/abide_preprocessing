@@ -3,6 +3,7 @@ Background & Summary.tex
 Methods.tex
 Data Records.tex
 Technical Validation.tex
+Usage Notes.tex
 Acknowledgements.tex
 Author contributions.tex
 Competing financial interests.tex
